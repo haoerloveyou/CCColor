@@ -1,0 +1,9 @@
+Package: com.cabralcole.cccolor
+Name: CCColor
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, ws.hbang.common
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change the Control Center color!
+Maintainer: cabralcole
+Author: cabralcole
+Section: Tweaks

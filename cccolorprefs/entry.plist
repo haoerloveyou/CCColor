@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = CCColorPrefs;
+	cell = PSLinkCell;
+	detail = CCColorPrefsListController;
+	icon = CCColorPrefs.png;
+	isController = 1;
+	label = CCColor;
+    };
+}
